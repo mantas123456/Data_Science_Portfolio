@@ -103,6 +103,7 @@ git commit -m "Initial commit - F1 Podium Predictor"
 git remote add origin https://github.com/your-username/Data_Science_Portfolio.git
 git push -u origin main
 
+---
 
 ## 🔍 Confusion Matrix Comparison
 
@@ -113,4 +114,4 @@ This visualization compares the classification performance of all three models:
 - ✅ **True Negatives (Top-left)**: Correctly identified non-podiums
 
 ![Confusion Matrix Comparison](results/confusion_matrix_comparison.png)
-
+---
