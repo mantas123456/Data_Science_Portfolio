@@ -13,4 +13,4 @@ Welcome to my Data Science portfolio — a collection of projects showcasing my 
 - Data Cleaning, EDA, ML Modeling, APIs
 - Jupyter, Flask/FastAPI, GitHub
 
-📬 Contact: [LinkedIn](#) • your.email@example.com
+📬 Contact: [LinkedIn](#) • email@e.com
