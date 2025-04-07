@@ -96,7 +96,7 @@ All plots are saved in the `results/` directory.
 
 This project uses **Git + GitHub** for version control. To start tracking:
 
-```bash
+
 git init
 git add .
 git commit -m "Initial commit - F1 Podium Predictor"
@@ -114,4 +114,5 @@ This visualization compares the classification performance of all three models:
 - ✅ **True Negatives (Top-left)**: Correctly identified non-podiums
 
 ![Confusion Matrix Comparison](results/confusion_matrix_comparison.png)
+
 ---
