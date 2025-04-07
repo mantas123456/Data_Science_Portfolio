@@ -1,4 +1,12 @@
-# utils/evaluate_models.py
+# -----------------------------------------------------------------------------
+# 📦 Project: Formula 1 Podium Prediction
+# 📄 File: evaluate_models.py
+# 🧩 Version: 1.1.0
+# 🧑‍💻 Author: Mantas
+# 📅 Last updated: 2025-04-08
+# 📌 Description: Evaluation and confusion matrix utilities
+# -----------------------------------------------------------------------------
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
