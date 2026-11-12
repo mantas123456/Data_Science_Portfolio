@@ -1,41 +1,13 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*.so
-
-# Virtual environments
+*.pyc
+*.egg-info/
 .venv/
-env/
-venv/
-portfolio_env/
-
-# Conda environment files
-*.conda
-*.env
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
-# Data and models
-data/
-models/
-*.csv
-*.xlsx
-*.h5
-*.pkl
-*.joblib
-
-# VS Code settings
+.env
 .vscode/
-.settings/
-
-# Logs and outputs
+.idea/
+logs/
 *.log
-*.out
-*.tmp
-*.DS_Store
-
-# OS-specific
-Thumbs.db
-ehthumbs.db
-Desktop.ini
+~$*
+.DS_Store
+.pytest_cache/
+.ruff_cache/

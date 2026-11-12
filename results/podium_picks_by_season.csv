@@ -1,0 +1,5 @@
+year,Baseline: top 3 on grid,Logistic regression,XGBoost
+2023,0.652,0.682,0.621
+2024,0.667,0.667,0.625
+2025,0.75,0.75,0.736
+2026,0.6,0.6,0.65
